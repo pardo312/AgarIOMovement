@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-N01RL3R</Machine>
+    <WindowsUser>USUARIO</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9ec98685-c578-49db-808f-56c233c4a4dd</PackageIdentityName>
+    <PackageIdentityPublisher>CN=USUARIO</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Daniel\Proyectos Personales\Agar.io\Agar.io\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>D:\Daniel\Proyectos Personales\Agar.io\Agar.io\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>B7D3FCF90ABEF1C90CA7677446153CA4B2976BC2DB79473B1CAF99A8CA32EE42</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9ec98685-c578-49db-808f-56c233c4a4dd_1.0.0.0_neutral__qn1cmrxjh6hzw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9ec98685-c578-49db-808f-56c233c4a4dd_qn1cmrxjh6hzw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9ec98685-c578-49db-808f-56c233c4a4dd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=USUARIO</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-13T20:39:47.420</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-10-13T22:32:34.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T17:02:13.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-10-13T22:33:29.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-10-13T18:17:41.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Daniel\Proyectos Personales\Agar.io\Agar.io\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-10-13T20:39:47.056</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
